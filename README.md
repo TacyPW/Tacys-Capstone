@@ -5,7 +5,6 @@ This repository serves as a living project proposal and holds the documentation 
 - [Tacys-Capstone](#tacys-capstone)
   - [Project Description](#project-description)
   - [Production Timeline](#production-timeline)
-    - [April](#april)
   - [Questions and Concerns](#questions-and-concerns)
   - [Resources and Materials](#resources-and-materials)
   - [Mockup](#mockup)
@@ -29,20 +28,13 @@ this project aims mainly to make people think about the ephemeral nature of inte
 
 ## Production Timeline
 
-### April
-
-|	Sun	|	Mon	|	Tue	|	Wed	|	Thu	|	Fri	|	Sat	|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|		|	1	|	2	|	3	|	4	|	5	|	6	|
-|	7	|	8	|	9	|	10	|	11	|	12	|	13	|
-|	14	|	15	|	16	|	17	|	18	|	19	|	20	|
-|	21	|	22	|	23	|	24	|	25	|	26	|	27	|
-|	28	|	29	|	30	|		|		|		|		|
-
 So far, I have been working on the plotter build, focusing on whatever comes up. It has been taking somewhat longer than I had anticipated.
 
-Overall, I would like to 
+Overall, I would like to be finished with the plotter build by the end of week 3. This goal is a bit aspirational but I have the majority of my materials ready, so I think it is possible. 
 
+Over the last week or so, I have begun to think more and more about the web aspect of my project. I have made significant progress on the plotter, and the website is the next step. I still am not sure when  
+
+The timeline is located in the project attached to this repo
 
 ## Questions and Concerns
 
