@@ -15,7 +15,7 @@ This repository serves as a living project proposal and holds the documentation 
 
 ## Project Description
 
-*In 1-3 paragraphs, describe your project in as much detail as you can, using as simple and direct language as possible. Avoid jargon. Some questions to consider: What are your main questions/influences? What ideas ground your research? What form does the project take? Why is the work urgent, necessary, relevant today? Who is the ideal audience / what community is the project most accountable to? Also include the rough scale and size that you have in mind. This will help think about how the projects will come together in the show.*
+*In 1-3 paragraphs, describe your project in as much detail as you can, using as simple and direct language as possible. Avoid jargon. Some questions to consider: What are your main questions/influences? What ideas ground your research? What form does the project take? Why is the work urgent, necessary, relevant today? Who is the ideal audience / what community is the project most accountable to? **Also include the rough scale and size that you have in mind. This will help think about how the projects will come together in the show.***
 
 It feels important to me to begin any explanation of this project with a contextualization within my larger interest in the relationship between print and digital media. I think that there is untapped potential between these modalities of media, and part of the motivation behind this project is to increase awareness of the particularities of each, in the hope that we can collaboratively unlock more. maybe thats super pretentious but it wouldnt really be my project if there wasnt some sort of aspect about educating people about something.
 
