@@ -43,3 +43,5 @@ This repository serves as a living project proposal and holds the documentation 
 ## Research Archive
 
 I have been collecting sources pertaining to this project and my greater interest in the relationship between print and digital media in [this raindrop collection](https://raindrop.io/tacypw/print-digital-35667421)
+
+Ive curated a selection of visual inspirations for this project in [this folder](Visual%20Archive/)
