@@ -38,6 +38,11 @@ The timeline is located in the project attached to this repo
 
 ## Questions and Concerns
 
+- What is the reason to use a plotter for this?
+- How do I make this useful in a community sense, while still having it be self contained in a physical way?
+  - I realized that the purpose of archiving for oneself is only a superficial part of the real purpose of this project. Because by definition archiving is for other people. Additionally, the action of curating the content for the zine will make that information more available in that person's brain because the act of curation serves as a new way of processing the information cognitively which strengthens the neural representation of the information (i can cite something if yall want me to but its also common sense to some extent).
+  - If the main purpose of the archiving is to ensure *other* people continue to have access to the information, how can i build a process into my system to faciliate this sharing of information down the line?
+
 ## Resources and Materials
 
 ## Mockup
