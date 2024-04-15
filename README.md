@@ -1,8 +1,8 @@
-# Tacys-Capstone
+# Project Proposal
 
 This repository serves as a living project proposal and holds the documentation for my senior capstone project to finish my degree at the UCLA Department of Design | Media Arts. 
 
-- [Tacys-Capstone](#tacys-capstone)
+- [Project Proposal](#project-proposal)
   - [Project Description](#project-description)
   - [Production Timeline](#production-timeline)
   - [Questions and Concerns](#questions-and-concerns)
@@ -34,7 +34,7 @@ Overall, I would like to be finished with the plotter build by the end of week 3
 
 Over the last week or so, I have begun to think more and more about the web aspect of my project. I have made significant progress on the plotter, and the website is the next step. I still am not sure when  
 
-The timeline is located in the project attached to this repo
+The timeline is located in [a project](https://github.com/users/TacyPW/projects/5) attached to this repo
 
 ## Questions and Concerns
 
@@ -42,20 +42,33 @@ The timeline is located in the project attached to this repo
 - How do I make this useful in a community sense, while still having it be self contained in a physical way?
   - I realized that the purpose of archiving for oneself is only a superficial part of the real purpose of this project. Because by definition archiving is for other people. Additionally, the action of curating the content for the zine will make that information more available in that person's brain because the act of curation serves as a new way of processing the information cognitively which strengthens the neural representation of the information (i can cite something if yall want me to but its also common sense to some extent).
   - If the main purpose of the archiving is to ensure *other* people continue to have access to the information, how can i build a process into my system to faciliate this sharing of information down the line?
+- What system of values do I want this to bealigned with
+- How do I center and acknowledge the paradoxical nature of this project in terms of the fact that it is not really possible to collapse the possibilities of the internet into
+  - I just need to make this conflict clear because thats one of the biggest points of the piece is that there are certain cualities of each of these media that arent representable in the other. -- that is the educational aspect of the piece.
 
 ## Resources and Materials
 
+The materials for this project, as well as fabricated component quantities are stored in [my BOM spreadsheet.](Plotter/Hardware/BOM.xlsx)
+
 ## Mockup
+
+when do i need to complete this by? the midterm?
+i should make a mockup ui in figma probably
 
 ## Bibliography
 
+how am I supposed to format this
+
 ## Process Documentation
+
+All of the documentation for this project lives inside of the documentation folder. The following are links to subfolders of that folder for quick access to parts of the documentation. 
 
 - The plotter
   - research
   - fabrication
   - testing
 - The Software
+  - 
   - Inspiration
   - Puzzle
   - Interface
