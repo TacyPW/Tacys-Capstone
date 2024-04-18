@@ -26,6 +26,7 @@ I am planning to flesh this out in a figma prototype to have something to show f
 |   |   |
 |   |   |
 
+~~~ text
   ┌────┬────┆────┬────┐
   │    │    ┆    │    │
   │ 7  │ 6  ┆ 5  │ 4  │
@@ -33,6 +34,7 @@ I am planning to flesh this out in a figma prototype to have something to show f
   │    ╎    │    │    │
   │ 8  ╎ 1  │ 2  │ 3  │
   └────╎────┆────│────┘
+~~~
 
 ## Puzzle
 
