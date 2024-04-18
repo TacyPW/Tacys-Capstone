@@ -1,9 +1,11 @@
 # The Software
 
 - [The Software](#the-software)
-  - [Resources](#resources)
-  - [Puzzle](#puzzle)
-  - [Interface](#interface)
+  - [user interaction](#user-interaction)
+  - [Interface Design](#interface-design)
+  - [References](#references)
+
+## user interaction
 
 My initial idea for the app that would power this project was to have it be a website that enables you to output a physical copy of another webpage in the form of a zine. It would follow this process:
 
@@ -18,15 +20,7 @@ My initial idea for the app that would power this project was to have it be a we
 
 I am planning to flesh this out in a figma prototype to have something to show for myself for the midterm. 
 
-## Resources
-
-|Source|Comments|
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-
-~~~ text
+```text
   ┌────┬────┆────┬────┐
   │    │    ┆    │    │
   │ 7  │ 6  ┆ 5  │ 4  │
@@ -34,8 +28,16 @@ I am planning to flesh this out in a figma prototype to have something to show f
   │    ╎    │    │    │
   │ 8  ╎ 1  │ 2  │ 3  │
   └────╎────┆────│────┘
-~~~
+```
 
-## Puzzle
+## Interface Design
 
-## Interface
+The interface for the project should be inviting and lively. I want to 
+
+## References
+
+|Source|Comments|
+|---|---|
+|   |   |
+|   |   |
+|   |   |
